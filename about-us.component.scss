@@ -1,0 +1,16 @@
+#sect1 {  
+    height: 1000 px;  
+    color: #fff;background: image url("../../assets/images/about.png"); 
+    background : size  100%;  
+    background : size cover;  
+}
+
+.container{
+    background-image: url("../../assets/images/about.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    color: blue;
+}
